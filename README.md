@@ -200,8 +200,6 @@
 
     The *Shadow DOM* is a browser technology designed primarily for scoping variables and CSS in *web components*. The *Virtual DOM* is a concept implemented by libraries in JavaScript on top of browser APIs.
 
-
-   **[⬆ Back to Top](#table-of-contents)**
     
 7. ### What is React Fiber?
 
@@ -220,8 +218,6 @@
     }
     ```
 
-
-   **[⬆ Back to Top](#table-of-contents)**
     
 9. ### What are uncontrolled components?
 
