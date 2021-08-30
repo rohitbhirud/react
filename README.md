@@ -26,15 +26,15 @@
 
     1. Whenever any underlying data changes, the entire UI is re-rendered in Virtual DOM representation.
 
-        ![vdom](images/vdom1.png)
+        ![vdom](https://github.com/sudheerj/reactjs-interview-questions/blob/master/images/vdom1.png)
 
     2. Then the difference between the previous DOM representation and the new one is calculated.
 
-        ![vdom2](images/vdom2.png)
+        ![vdom2](https://github.com/sudheerj/reactjs-interview-questions/raw/master/images/vdom2.png)
 
     3. Once the calculations are done, the real DOM will be updated with only the things that have actually changed.
 
-        ![vdom3](images/vdom3.png)
+        ![vdom3](https://github.com/sudheerj/reactjs-interview-questions/blob/master/images/vdom3.png)
 
 
 
@@ -274,11 +274,11 @@
 
     React 16.3+ Phases (or an [interactive version](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/))
 
-    ![phases 16.3+](images/phases16.3.jpg)
+    ![phases 16.3+](https://github.com/sudheerj/reactjs-interview-questions/blob/master/images/phases16.3.jpg)
 
     Before React 16.3
 
-    ![phases 16.2](images/phases.png)
+    ![phases 16.2](https://github.com/sudheerj/reactjs-interview-questions/blob/master/images/phases.png)
 
 
 
